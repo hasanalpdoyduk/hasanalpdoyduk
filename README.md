@@ -1,6 +1,7 @@
-# hasanalpdoydu
+<h1 align="center">Hasan Alp Doyduk</h1>
+<h3 align="center">A passionate electrical and electronics engineer from Turkey</h3>
 
-# 💫 About Me: [center]
+
 You can reach me: hasanalptr@gmail.com
 
 
