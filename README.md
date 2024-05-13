@@ -1,6 +1,6 @@
 # hasanalpdoydu
 
-\begin{center} # 💫 About Me:
+# 💫 About Me: [center]
 You can reach me: hasanalptr@gmail.com
 
 
