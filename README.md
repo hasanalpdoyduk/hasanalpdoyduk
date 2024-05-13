@@ -2,7 +2,7 @@
 <h3 align="center">A passionate electrical and electronics engineer from Turkey</h3>
 
 
-You can reach me: hasanalptr@gmail.com
+[![](https://visitcount.itsvg.in/api?id=hasanalpdoyduk&icon=3&color=1)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -15,7 +15,4 @@ You can reach me: hasanalptr@gmail.com
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hasanalpdoyduk&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanalpdoyduk&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=hasanalpdoyduk&icon=3&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+You can reach me: hasanalptr@gmail.com
