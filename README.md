@@ -1,4 +1,6 @@
 <h1 align="center">Hasan Alp Doyduk</h1>
+# 🏄‍♂️ Hasan Alp Doyduk
+
 <h3 align="center">A passionate electrical and electronics engineer from Turkey</h3>
 
 
