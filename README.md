@@ -8,8 +8,6 @@ I've worked on a variety of real-world engineering challenges, from developing a
 
 Recently, I’ve been diving into the integration of embedded systems with AI, focusing on applications such as real-time signal processing and smart automation. I’m also keen on exploring hardware-in-the-loop simulations and energy-efficient embedded designs.
 
-Recently, I’ve been exploring how embedded systems and AI can come together, particularly in areas like real-time signal processing and intelligent automation. I'm also interested in hardware-in-the-loop simulations and low-power embedded designs focused on energy efficiency.
-
 My goal is to keep building systems that make a difference, grow as an engineer, and contribute to technologies that connect the digital and physical worlds — where code drives hardware, and every signal counts.
 
 
